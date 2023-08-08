@@ -18,18 +18,26 @@ Open a terminal, and write the following code:
 
 You will need to open cmd as administrator:
 
-```npm i -g nodemon```
+```bash
+npm i -g nodemon
+```
 
 ### Linux
-```sudo npm i -g nodemon```
+```bash
+sudo npm i -g nodemon
+```
 
 after you have cloned this repo, you must go inside the project folder:
 
-```cd elevator_arduino_server```
+```bash
+cd elevator_arduino_server
+```
 
 and execute:
 
-```npm i```
+```bash
+npm i
+```
 
 this will install all the dependencies of the project to work with arduino.
 
