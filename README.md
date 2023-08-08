@@ -1,5 +1,11 @@
 # elevator_arduino_server
 
+A rest API made to interact with [Elevator Arduino Project](https://github.com/Foalz/elevator_sketch) made for university project. 
+
+But it can be adapted to work with any arduino project, this is just a basic base and example you could expand.
+
+This is ideal to work with Arduino UNO.
+
 ## Dependencies
 
 Make sure to have installed [Node.js](https://nodejs.org/en) to run this project.
